@@ -1,0 +1,94 @@
+body {
+	font-family: Times New Roman;
+}
+
+nav {
+	background-color: lightblue;
+	max-width: 250px;
+	margin-top: -16px;
+	margin-left: -4px;
+	padding: 1px 0px 5px 5px;
+}
+
+header {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+
+a {
+	color: blue;
+}
+
+p {
+	font-weight: lighter;
+}
+
+input {
+	color: black;
+}
+
+h4 {
+	font-weight: lighter;
+	font-style: italic;
+}
+
+#sectionOne {
+	text-align: center;
+	background-color: #e8e8e8;
+}
+
+/*Paragraphes: firstp, secondp, thirdp*/
+#firstp {
+	margin-bottom: 2px;
+	padding-top: 5px;
+}
+
+#secondp {
+	margin-top: 1px;
+	margin-bottom: 0px;
+	padding-bottom: 5px;
+}
+
+#field1 {
+	margin-bottom: 0px;
+}
+
+#sectionTwo {
+	text-align: center;
+}
+
+#aboutGoogle {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#otherlinks {
+	margin-top: 18px;
+	margin-bottom: -10px;
+}
+
+#thirdp {
+	padding: 5px;
+	margin-bottom: 1px;
+}
+
+#sectionThree {
+	text-align: center;
+	background-color: #e8e8e8;
+}
+
+#emailsection {
+	padding: 5px;
+	margin-bottom: -16px;
+}
+
+#email {
+	color: black;
+}
+
+#archive {
+	font-size: 13px;
+}
